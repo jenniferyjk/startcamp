@@ -12,3 +12,4 @@ else :
 
 # if는 필수, else는 선택(elif도 혼자서는 쓸 수 없음) -> if는 혼자쓰기 가능!
 
+print('aaa')
